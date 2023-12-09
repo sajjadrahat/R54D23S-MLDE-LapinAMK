@@ -7,4 +7,6 @@ for i in range(5):
     except ValueError:
         print("user_input")
 
-print(f"The biggest number from user: {max_num}")
+print(f"The biggest number from user: {max_num}")       \n")
+    if ask_user=="n":
+        break

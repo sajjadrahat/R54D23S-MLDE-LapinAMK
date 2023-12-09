@@ -9,4 +9,6 @@ while True:
         else:
             print('Wrong number format.')
     except ValueError:
-        print("Wrong number format.")
+        print("Wrong number format.")       \n")
+    if ask_user=="n":
+        break

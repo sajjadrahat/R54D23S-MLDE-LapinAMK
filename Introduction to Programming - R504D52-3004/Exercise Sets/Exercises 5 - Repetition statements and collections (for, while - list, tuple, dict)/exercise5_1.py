@@ -17,4 +17,5 @@ print(f"Sum: {sum}")
 #(d)
 
 for i in range(2005,2011):
-    print(i, end=" ")
+
+    print(i, end=" ")   

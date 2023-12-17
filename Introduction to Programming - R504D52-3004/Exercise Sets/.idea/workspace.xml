@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cc473ad4-9908-425f-a1e2-4bce961ae1c4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Exercise Sets.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises 10 - File management in Python/exercise10_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises 10 - File management in Python/exercise10_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises 10 - File management in Python/exercise10_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises 10 - File management in Python/exercise10_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises 10 - File management in Python/exercise10_2_extra.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises 10 - File management in Python/exercise10_2_extra.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises 10 - File management in Python/exercise10_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises 10 - File management in Python/exercise10_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises 10 - File management in Python/exercise10_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises 10 - File management in Python/exercise10_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises 10 - File management in Python/exercise10_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises 10 - File management in Python/exercise10_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises 10 - File management in Python/exercise10_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises 10 - File management in Python/exercise10_6.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2ZM2ZdPZ8mWsPwuBW4bJssZXPbV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "G:/My Drive/LapinAMK/Github/R54D23S-MLDE-LapinAMK/Introduction to Programming - R504D52-3004/Exercise Sets/Exercises 10 - File management in Python"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\My Drive\LapinAMK\Github\R54D23S-MLDE-LapinAMK\Introduction to Programming - R504D52-3004\Exercise Sets\Exercises 10 - File management in Python" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cc473ad4-9908-425f-a1e2-4bce961ae1c4" name="Changes" comment="" />
+      <created>1702217683808</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702217683808</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Exercises 10 - File management in Python/exercise10_3.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Exercises 10 - File management in Python/exercise10_4.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Exercises 10 - File management in Python/functions.py</url>
+          <line>83</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

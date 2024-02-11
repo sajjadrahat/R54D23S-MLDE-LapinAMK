@@ -1,4 +1,4 @@
-# Alternative 1: Roman numerals
+# Alternative 1: Roman numeral
 
 def arabicToRoman_ViceVersa (user_input):
         # Creating the table in dictionary to access values easily
@@ -23,6 +23,7 @@ def arabicToRoman_ViceVersa (user_input):
             if int(user_input)>3999:
                 print("Error: maximum possible roman numeral is 3999")
             else:
+                
                 result=""
                 user_input = int(user_input)
                 for val, key in arabicToRomanTable.items():
